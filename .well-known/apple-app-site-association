@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "AB12CD34EF.com.siren96.locket",
+        "paths": ["/Locket/invite", "/Locket/invite/*"]
+      }
+    ]
+  }
+}
